@@ -1,3 +1,2 @@
 # Soccer_Analysis
-analyzing goal trends
-[Premier league] https://www.premierleague.com/en)]
+[![Premier League Logo](https://resources.premierleague.com/premierleague/badges/t8.svg)](https://www.premierleague.com)
